@@ -23,4 +23,9 @@ Kurzanleitung zu Altium 17
     4.1.4 Anzeigen Bauteilbibliotheken
     4.1.5 (Nach-)Installieren von Bibliotheken
     4.1.6 Bauteile platzieren
+    4.1.7 Werteingabe der Bauteile
+    4.1.8 Verdrahten
+    4.1.9 Netznamen vergeben
+    4.1.10 Bauteilnamen vergeben
+    4.1.11 Electrical Rule Check (ERC)
 ```
