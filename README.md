@@ -1,8 +1,17 @@
 ![<> Header Image <>](https://github.com/htl-inn/altium-anleitung/raw/master/header.png)
 
-# Altium 17 Kurzanleitung [DE] [IN ARBEIT]
+# Altium 17 Kurzanleitung [DE]
 
 Kurzanleitung zu Altium 17
+
+## Herunterladen
+
+Die Anleitung wird in verschiedenen Dateiformaten zur Verfügung gestellt:
+
+* `Altium Designer 17 - Kurzanleitung.docx` (bevorzugt zur Weiterbearbeitung)
+* `Altium Designer 17 - Kurzanleitung.odt`
+* `Altium Designer 17 - Kurzanleitung.pdf`
+* `Altium Designer 17 - Kurzanleitung.html`
 
 ## Inhaltsverzeichnis
 
@@ -47,3 +56,7 @@ Kurzanleitung zu Altium 17
     4.5.1 Anpassen
 5. Schlusswort
 ```
+
+## Beteiligung
+
+Bei Fehlern, Verbesserungsvorschlägen oder Erweiterungen kann entweder ein "Issue" erstellt werden oder das Projekt "geforkt" werden. Pull Requests sind immer willkommen.
