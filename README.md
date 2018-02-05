@@ -13,6 +13,8 @@ Die Anleitung wird in verschiedenen Dateiformaten zur Verfügung gestellt:
 * `Altium Designer 17 - Kurzanleitung.pdf`
 * `Altium Designer 17 - Kurzanleitung.html`
 
+Zusätzlich sind stehen auch Libraries, Templates und OutputJobs im Unterordner `Altium` zum Download bereit.
+
 ## Inhaltsverzeichnis
 
 ```text
