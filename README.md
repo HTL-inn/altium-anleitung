@@ -1,3 +1,5 @@
+![<> Header Image <>](https://github.com/htl-inn/altium-anleitung/raw/master/header.png)
+
 # Altium 17 Kurzanleitung [DE] [IN ARBEIT]
 
 Kurzanleitung zu Altium 17
@@ -31,4 +33,17 @@ Kurzanleitung zu Altium 17
   4.3 Simulation
   4.4 Printplattenentwurf (PCB)
     4.4.1 Neues PCB erstellen
+    4.4.2 Bauteile aus Schaltbild importieren
+    4.4.3 Bauteile platzieren
+    4.4.4 Routen
+      4.4.4.1 Manuelles Routen
+      4.4.4.2 Autorouting
+    4.4.5 Design Rule Check (DRC)
+    4.4.6 Beschriftung
+    4.4.7 Gruppe von Objekten verändern
+    4.4.8 Bohrlegende hinzufügen
+    4.4.9 Printfertigungsregeln an der HTL Anichstraße
+  4.5 Printout
+    4.5.1 Anpassen
+5. Schlusswort
 ```
