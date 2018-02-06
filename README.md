@@ -15,7 +15,7 @@ Die Anleitung wird in verschiedenen Dateiformaten zur Verfügung gestellt:
 * `Altium Designer 17 - Kurzanleitung.pdf`
 * `Altium Designer 17 - Kurzanleitung.html`
 
-Zusätzlich sind stehen auch Libraries, Templates und OutputJobs im Unterordner `Altium` zum Download bereit.
+Zusätzlich stehen auch Libraries, Templates und OutputJobs im Unterordner `Altium` zum Download bereit.
 
 ## Inhaltsverzeichnis
 
@@ -63,4 +63,4 @@ Zusätzlich sind stehen auch Libraries, Templates und OutputJobs im Unterordner 
 
 ## Beteiligung
 
-Bei Fehlern, Verbesserungsvorschlägen oder Erweiterungen kann entweder ein "Issue" erstellt werden oder das Projekt "geforkt" werden. Pull Requests sind immer willkommen.
+Bei Fehlern, Verbesserungsvorschlägen oder Erweiterungen kann entweder ein "Issue" erstellt werden oder das Projekt "geforked" werden. Pull Requests sind immer willkommen.
