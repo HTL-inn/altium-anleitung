@@ -6,7 +6,7 @@ Kurzanleitung zu Altium 17
 
 ## Herunterladen
 
-[Download Version 5](https://github.com/HTL-inn/altium-anleitung/releases/tag/v5)
+[Download Version 5](https://github.com/HTL-inn/altium-anleitung/releases)
 
 Die Anleitung wird in verschiedenen Dateiformaten zur Verfügung gestellt:
 
